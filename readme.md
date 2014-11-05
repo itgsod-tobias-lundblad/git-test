@@ -1,7 +1,4 @@
 #Hello, Github
 This is my first project
 
-*this
-*is
-*a
-*list
+## I don't need a dumb list
